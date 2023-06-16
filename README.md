@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sivaji Gadidala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p  style="text-align: right"><img  alt="coding" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivajisj&label=Profile%20views&color=0e75b6&style=flat" alt="sivajisj" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivajisj" alt="sivajisj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@iamsivajisj" target="blank"><img src="https://img.shields.io/twitter/follow/@iamsivajisj?logo=twitter&style=for-the-badge" alt="@iamsivajisj" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivajisj&label=Profile%20views&color=0e75b6&style=flat" alt="sivajisj" /> </p>
+
+
 
 - 🔭 I’m completed my graduation **B Tech**
 
