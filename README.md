@@ -1,5 +1,6 @@
 <h1 align="center">Hii 👋, I'm Sivaji Gadidala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+ ![GitHub repo size](https://img.shields.io/github/repo-size/sivajisj/sivajisj.io)
 <p  style="text-align: right"><img  alt="coding" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivajisj" alt="sivajisj" /></a> </p>
 <h3 align="left">Connect with me:</h3>
