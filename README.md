@@ -9,10 +9,10 @@
 <p align="left">
 <a href="https://twitter.com/@iamsivajisj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iamsivajisj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sivaji-gadidala-b712ba221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sivaji-gadidala-b712ba221" height="30" width="40" /></a>
-<a href="https://instagram.com/@sivajirsj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sivajirsj" height="30" width="40" /></a>
+<a href="https://instagram.com/@sivajiisj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sivajirsj" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sivajigsivajig703@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sivajigsivajig703@gmail.com" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/@iamsivajisj" target="blank"><img src="https://img.shields.io/twitter/follow/@iamsivajisj?logo=twitter&style=for-the-badge" alt="@iamsivajisj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamsivajisj" target="blank"><img src="https://img.shields.io/twitter/follow/@iamsivajisj?logo=twitter&style=for-the-badge" alt="iamsivajisj" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivajisj&label=Profile%20views&color=0e75b6&style=flat" alt="sivajisj" /> </p>
 
 
