@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Sivaji Gadidala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <p align="center">
   <img alt="coding" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 </p>
