@@ -26,7 +26,7 @@
 - 💬 Ask me about **HTML,JAVA,CSS,MySQL ,JAvaScript**
 -  👯 I’m looking to collaborate on **web dev**
 - 📫 How to reach me **sivajigsivajig703@gmail.com**
--  🔭 I’m currently working on [food App](ReactJs)
+-  🔭 I’m currently working on [Blog application](ReactJs)
 
 
 
@@ -38,3 +38,102 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivajisj&show_icons=true&locale=en" alt="sivajisj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivajisj&" alt="sivajisj" /></p>
+
+
+# My Work 
+# My HTML, CSS, and JavaScript Projects Repository
+
+This repository contains a collection of projects I've built using HTML, CSS, and JavaScript. From simple landing pages to more complex web applications, these projects showcase my front-end development skills.
+
+## Table of Contents
+
+1. [Project 1](#project-1)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Age calculator</div>
+    <a href="https://age-calculatorr-app.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a> <br>
+    <a href="https://github.com/sivajisj/AgeCalculator" style="text-decoration: none; color: #007BFF; margin-right: 10px;">
+        <button>View Code</button></a>
+
+
+2. [Project 3](#project-2)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Blackjack</div>
+    <a href="https://blackjack-game-hj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/webdev-projects-html-css-js/tree/main/blackJack" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+    
+3. [Project 3](#project-3)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Random Color Generator</div>
+    <a href="https://random-color-genr.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/webdev-projects-html-css-js/tree/main/RandomColorGenerator" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+    
+4. [Project 4](#project-4)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Quizz-App</div>
+    <a href="https://sj-quizz-app.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/Quiz-App" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+
+    
+5. [Project 5](#project-5)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Google UI clone</div>
+    <a href="https://google-signup-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/webdev-projects-html-css-js/tree/main/google%20UI" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+
+
+# React Projects Repository
+
+This repository contains a collection of projects I've built using Js library Reactjs. From simple landing pages to more complex web applications, these projects showcase my front-end development skills.
+
+## Table of Contents
+
+
+1. [Project 1](#project-1)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">My Portfolio website</div>
+    <a href="https://sivaji-portfolio.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a> <br>
+    <a href="https://github.com/sivajisj/react-portfolio-sj" style="text-decoration: none; color: #007BFF; margin-right: 10px;">
+        <button>View Code</button></a>
+
+
+2. [Project 2](#project-2)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">todo-list-redux</div>
+    <a href="https://todo-list-reduxx.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/todo-list-redux" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+    
+3. [Project 3](#project-3)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Airbnb</div>
+    <a href="https://airbnb-clone-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/clone-airbnb" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+    
+4. [Project 4](#project-4)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Meme-generator  Application</div>
+    <a href="https://meme-generator-react-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/meme-generator-react" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+    
+5. [Project 5](#project-5)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Expense tracker</div>
+    <a href="https://expense-tracker-sjj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="#" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+    
+6. [Project 6](#project-6)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Calculator App</div>
+    <a href="https://calculator-app-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/calculator-react-main" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+
+
+# Full stack apps
+
+section contains a collection of projects I've built using MERN. From simple landing pages to more complex web applications, these projects showcase my front-end development skills.
+
+
+1. [Project 1](#project-1)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Book Store App</div>
+    <a href="https://mern-bookstore-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/Book-Store-MERN" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
