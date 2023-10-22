@@ -129,7 +129,7 @@ This repository contains a collection of projects I've built using Js library Re
 
 # Full stack apps
 
-section contains a collection of projects I've built using MERN. From simple landing pages to more complex web applications, these projects showcase my front-end development skills.
+section contains a collection of projects I've built using MERN. From simple landing pages to more complex web applications, these projects showcase my front-end and back-end development skills.
 
 
 1. [Project 1](#project-1)
