@@ -17,16 +17,16 @@
 
 
 
-- 🔭 I’m completed my graduation **B Tech**
+- 🔭 I've completed my graduation in  **B Tech**
 
-- 🌱 I’m currently learning **Javascript Frameworks,UI/UX**
+- 🌱 I’m currently learning **foundry edition of web3 and nextJS**
 
 - 👨‍💻 All of my projects are available at [https://sivajisj.github.io/](https://sivajisj.github.io/)
 
-- 💬 Ask me about **HTML,JAVA,CSS,MySQL ,JAvaScript**
+- 💬 Ask me about **Python,JAVA,CSS,MySQL,JavaScript,ReactJS ,Mongodb ,Solidity,redux-TK**
 -  👯 I’m looking to collaborate on **web dev**
 - 📫 How to reach me **sivajigsivajig703@gmail.com**
--  🔭 I’m currently working on [Blog application](ReactJs)
+-  🔭 I’m currently working on [Blog application](nextJS)
 
 
 
