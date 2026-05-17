@@ -1,144 +1,169 @@
-<h1 align="center">Hii 👋, I'm Sivaji Gadidala</h1>
-<h3 align="center">A passionate Web3 developer from India</h3>
-<p align="center">
-  <img alt="coding" width="500" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-</p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivajisj" alt="sivajisj" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@iamsivajisj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iamsivajisj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sivaji-gadidala-b712ba221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sivaji-gadidala-b712ba221" height="30" width="40" /></a>
-<a href="https://instagram.com/@sivajiisj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sivajirsj" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sivajigsivajig703@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sivajigsivajig703@gmail.com" height="30" width="40" /></a>
-</p>
-<p align="left"> <a href="https://twitter.com/iamsivajisj" target="blank"><img src="https://img.shields.io/twitter/follow/@iamsivajisj?logo=twitter&style=for-the-badge" alt="iamsivajisj" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivajisj&label=Profile%20views&color=0e75b6&style=flat" alt="sivajisj" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sivaji%20Gadidala&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20Solana%20%C2%B7%20EVM%20%C2%B7%20Rust&descAlignY=58&descColor=a78bfa" />
 
+</div>
 
+<div align="center">
 
-- 🔭 I've completed my graduation in  **B Tech**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivaji-gadidala-b712ba221)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamsivajisj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivajigsivajig703@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sivajisj.github.io/)
 
-- 🌱 I’m currently learning **foundry edition of web3 and nextJS**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://sivajisj.github.io/](https://sivajisj.github.io/)
+---
 
-- 💬 Ask me about **Python,JAVA,CSS,MySQL,JavaScript,ReactJS ,Mongodb ,Solidity,redux-TK**
--  👯 I’m looking to collaborate on **web dev**
-- 📫 How to reach me **sivajigsivajig703@gmail.com**
--  🔭 I’m currently working on [Blog application](nextJS)
+## 👨‍💻 About Me
 
+Full Stack Blockchain Engineer with hands-on production experience building on **Solana** (Anchor, SPL, PDAs, CPIs) and **Ethereum/EVM** (Solidity, Hardhat, OpenZeppelin). I design and ship end-to-end decentralized systems — from smart contracts and on-chain program logic to Node.js relayers, backend APIs, and React frontends.
 
+Currently building at **Simreka Softwares Pvt. Ltd.** and actively targeting high-impact roles in the Solana and EVM ecosystems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+```
+Solana (Anchor · SPL · PDAs · CPIs · Token 2022 · sBPF)
+Ethereum/EVM  (Solidity · Hardhat · OpenZeppelin v5 · ethers.js v6)
+Backend       (Node.js · Express · MongoDB · REST APIs)
+Frontend      (React · Next.js · Redux Toolkit)
+Languages     (Rust · JavaScript · TypeScript · Python)
+```
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/solidity.png" alt="solidity"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://ccoingossip.com/wp-content/uploads/2020/08/truffle-logo.png" alt="solidity"/></a>
-</p>
+---
 
+## 🔗 Blockchain Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivajisj&show_icons=true&locale=en&layout=compact" alt="sivajisj" /></p>
+### 🌉 Cross-Chain Token Bridge — Ethereum Sepolia ↔ Polygon Amoy
+> Lock-and-mint architecture bridging ERC-20 tokens across L1/L2 chains
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivajisj&show_icons=true&locale=en" alt="sivajisj" /></p>
+- **Pattern:** Lock on source chain → event-driven Node.js relayer → mint on destination chain
+- **Stack:** Solidity · Hardhat · OpenZeppelin v5 · ethers.js v6 · Node.js · React · MetaMask
+- **Status:** Deployed & verified on live testnets
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivajisj&" alt="sivajisj" /></p>
+[![Sepolia Contract](https://img.shields.io/badge/Etherscan-Sepolia_Contract-3C3C3D?style=flat-square&logo=ethereum)](https://sepolia.etherscan.io)
+[![Amoy Contract](https://img.shields.io/badge/Polygonscan-Amoy_Contract-8247E5?style=flat-square&logo=polygon)](https://amoy.polygonscan.com)
 
+---
 
-# My Work 
-# My HTML, CSS, and JavaScript Projects Repository
+### 🏦 DeFi Lending Protocol — Ethereum/EVM
+> Permissionless lending and borrowing with collateral management
 
-This repository contains a collection of projects I've built using HTML, CSS, and JavaScript. From simple landing pages to more complex web applications, these projects showcase my front-end development skills.
+- **Features:** Deposit, borrow, repay, liquidation logic, interest accrual
+- **Stack:** Solidity · Hardhat · OpenZeppelin · ethers.js · React frontend
+- **Pattern:** Over-collateralized lending with on-chain price feed integration
 
-## Table of Contents
+[![View Contract](https://img.shields.io/badge/Etherscan-View_Contract-3C3C3D?style=flat-square&logo=ethereum)](https://etherscan.io)
 
-1. [Project 1](#project-1)
+---
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Age calculator</div>
-    <a href="https://age-calculatorr-app.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a> <br>
-    <a href="https://github.com/sivajisj/AgeCalculator" style="text-decoration: none; color: #007BFF; margin-right: 10px;">
-        <button>View Code</button></a>
+### ⚡ Solana Programs — Anchor Framework
+> On-chain programs leveraging core Solana primitives
 
+- **Scope:** Custom PDAs · CPI composition · SPL Token minting & transfer · Token 2022 extensions
+- **Stack:** Rust · Anchor · @solana/web3.js · Solana CLI
+- **Concepts covered:** Account validation · Program-derived addresses · Cross-program invocations · Associated token accounts
 
-2. [Project 3](#project-2)
+---
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Blackjack</div>
-    <a href="https://blackjack-game-hj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/webdev-projects-html-css-js/tree/main/blackJack" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
-    
-3. [Project 3](#project-3)
+## 🛠 Tech Stack & Skills
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Random Color Generator</div>
-    <a href="https://random-color-genr.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/webdev-projects-html-css-js/tree/main/RandomColorGenerator" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
-    
-4. [Project 4](#project-4)
+### ⛓ Blockchain — Languages & Frameworks
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor_Framework-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Quizz-App</div>
-    <a href="https://sj-quizz-app.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/Quiz-App" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+### 🔧 Blockchain — Tooling & Libraries
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js_v6-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-    
-5. [Project 5](#project-5)
+### 🧠 Blockchain Expertise — Concepts & Primitives
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Google UI clone</div>
-    <a href="https://google-signup-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/webdev-projects-html-css-js/tree/main/google%20UI" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+> *These are the knowledge signals that separate engineers from tutorial-followers.*
 
+**Solana / Rust**
+```
+✦ Program Derived Addresses (PDAs)    ✦ Cross-Program Invocations (CPIs)
+✦ SPL Token standard                  ✦ Token 2022 extensions
+✦ Associated Token Accounts (ATAs)    ✦ Account validation & constraints
+✦ sBPF VM internals                   ✦ Anchor account macros & IDL generation
+✦ Instruction data serialization      ✦ Rent & lamport management
+```
 
-# React Projects Repository
+**Ethereum / EVM**
+```
+✦ ERC-20 / ERC-721 / ERC-1155         ✦ Proxy patterns (UUPS, Transparent)
+✦ Cross-chain bridge architecture      ✦ Lock-and-mint pattern
+✦ Over-collateralized lending          ✦ Liquidation mechanics
+✦ OpenZeppelin v5 contracts            ✦ Gas optimization techniques
+✦ Event-driven relayer design          ✦ Hardhat forking & testing
+```
 
-This repository contains a collection of projects I've built using Js library Reactjs. From simple landing pages to more complex web applications, these projects showcase my front-end development skills.
+---
 
-## Table of Contents
+### 🖥 Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-1. [Project 1](#project-1)
+### 🔨 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Solana CLI](https://img.shields.io/badge/Solana_CLI-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-    <div style="font-weight: bold; margin-bottom: 10px;">My Portfolio website</div>
-    <a href="https://sivaji-portfolio.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a> <br>
-    <a href="https://github.com/sivajisj/react-portfolio-sj" style="text-decoration: none; color: #007BFF; margin-right: 10px;">
-        <button>View Code</button></a>
+---
 
+## 💼 Experience
 
-2. [Project 2](#project-2)
+| Role | Company | Period |
+|------|---------|--------|
+| Full Stack Blockchain Engineer | Simreka Softwares Pvt. Ltd. | Aug 2024 – Present |
+| Blockchain Developer Intern | Octaverse LLP | Prior |
 
-    <div style="font-weight: bold; margin-bottom: 10px;">todo-list-redux</div>
-    <a href="https://todo-list-reduxx.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/todo-list-redux" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
-    
-3. [Project 3](#project-3)
+---
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Airbnb</div>
-    <a href="https://airbnb-clone-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/clone-airbnb" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
-    
-4. [Project 4](#project-4)
+## 📊 GitHub Stats
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Meme-generator  Application</div>
-    <a href="https://meme-generator-react-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/meme-generator-react" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
-    
-5. [Project 5](#project-5)
+<div align="center">
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Expense tracker</div>
-    <a href="https://expense-tracker-sjj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="#" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
-    
-6. [Project 6](#project-6)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivajisj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivajisj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css"/>
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Calculator App</div>
-    <a href="https://calculator-app-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/calculator-react-main" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+</div>
 
+---
 
-# Full stack apps
+## 📫 Open to Opportunities
 
-section contains a collection of projects I've built using MERN. From simple landing pages to more complex web applications, these projects showcase my front-end and back-end development skills.
+I'm actively looking for **Blockchain Engineer** roles focused on:
+- Solana programs (Anchor, Rust)
+- Ethereum/EVM protocol development
+- Cross-chain infrastructure and bridge architecture
 
+**Reach me:** sivajigsivajig703@gmail.com · [LinkedIn](https://linkedin.com/in/sivaji-gadidala-b712ba221)
 
-1. [Project 1](#project-1)
+<div align="center">
 
-    <div style="font-weight: bold; margin-bottom: 10px;">Book Store App</div>
-    <a href="https://mern-bookstore-sj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
-    <a href="https://github.com/sivajisj/Book-Store-MERN" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
+</div>
