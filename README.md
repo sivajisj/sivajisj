@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sivaji%20Gadidala&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Blockchain%20Engineer%20%7C%20Solana%20%C2%B7%20EVM%20%C2%B7%20Rust%20Backend&descAlignY=55&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sivaji%20Gadidala&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Blockchain%20Engineer%20%7C%20Solana%20%C2%B7%20EVM%20%C2%B7%20Rust%20Backend%20%C2%B7%20Web3%20Frontend&descAlignY=55&descColor=a78bfa" />
 
 <a href="https://linkedin.com/in/sivaji-gadidala-b712ba221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/iamsivajisj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -15,16 +15,18 @@
 
 ## 👨‍💻 About Me
 
-Full-stack blockchain engineer shipping production systems across **three pillars**: **Solana** (Anchor, SPL, PDAs, CPIs), **Ethereum/EVM** (Solidity, Hardhat, OpenZeppelin), and **Rust backend infrastructure** (Axum, Tokio, async microservices). I build complete decentralized systems end-to-end — on-chain programs, smart contracts, high-throughput Rust APIs, event-driven relayers, and the frontends that wrap them.
+Full-stack blockchain engineer shipping production systems across **four pillars**: **Solana** (Anchor, SPL, PDAs, CPIs), **Ethereum/EVM** (Solidity, Hardhat, OpenZeppelin), **Rust backend infrastructure** (Axum, Tokio, async microservices), and **Web3 frontend engineering** (Next.js dApps, wallet integrations, real-time on-chain UIs). I build complete decentralized systems end-to-end — on-chain programs, smart contracts, high-throughput Rust APIs, event-driven relayers, and the **Next.js frontends** that make them usable: wallet connection flows, contract-driven state, and live on-chain data rendering.
 
 Currently building at **Simreka Softwares Pvt. Ltd.**, and actively expanding into **DePIN** (decentralized physical infrastructure) protocols on Solana.
 
 ```text
-Solana        →  Anchor · SPL · PDAs · CPIs · Token 2022 · sBPF
-Ethereum/EVM  →  Solidity · Hardhat · OpenZeppelin v5 · ethers.js v6
-Rust Backend  →  Axum · Tokio · Serde · SQLx · async/await · REST & gRPC
-DePIN         →  On-chain heartbeats · uptime proofs · trustless rewards
-Frontend      →  React · Next.js · Redux Toolkit · TypeScript
+Solana         →  Anchor · SPL · PDAs · CPIs · Token 2022 · sBPF
+Ethereum/EVM   →  Solidity · Hardhat · OpenZeppelin v5 · ethers.js v6
+Rust Backend   →  Axum · Tokio · Serde · SQLx · async/await · REST & gRPC
+DePIN          →  On-chain heartbeats · uptime proofs · trustless rewards
+Web3 Frontend  →  Next.js (App Router) · React · TypeScript · Redux Toolkit
+                  ethers.js/web3.js integration · MetaMask & wallet flows
+                  Tailwind CSS · SSR/ISR for dApps · live contract-state UIs
 ```
 
 ---
@@ -33,6 +35,7 @@ Frontend      →  React · Next.js · Redux Toolkit · TypeScript
 
 🛰️ **DePIN infrastructure on Solana** — trustless, cryptographically-verified uptime tracking for physical hardware (see RouterPulse below)
 🗳️ **On-chain governance primitives** — wallet-gated voting systems with smart-contract-sourced truth (see Voting Board below)
+🎨 **Next.js dApp frontends** — wallet-first UIs that read state straight from smart contracts: connection flows, transaction lifecycle UX, and live on-chain data visualization
 
 ---
 
@@ -76,6 +79,7 @@ Frontend      →  React · Next.js · Redux Toolkit · TypeScript
 
 - ✅ Vote counts read **live from the smart contract**, never cached or trusted from the DB — eliminates double-voting and result tampering
 - 👤 Admin dashboard for proposal creation & voter registration; separate voter dashboard for wallet-gated voting
+- 🎨 **Next.js frontend** with MetaMask connection flow, transaction-state UX (pending / confirmed / reverted), and chart-based live result visualization driven by contract reads
 - 🔐 JWT auth in httpOnly cookies layered on top of on-chain vote integrity
 - **Stack:** `Next.js` `TypeScript` `Solidity` `Hardhat` `ethers.js v6` `MongoDB` `MetaMask`
 - **Status:** 🧪 Local Hardhat network + MongoDB
@@ -89,6 +93,7 @@ Frontend      →  React · Next.js · Redux Toolkit · TypeScript
 > Lock-and-mint architecture bridging ERC-20 tokens across L1/L2 chains.
 
 - **Pattern:** Lock on source chain → event-driven Node.js relayer → mint on destination chain
+- **Frontend:** React bridge UI with wallet connection, automatic network switching between Sepolia and Amoy, and per-step transaction status feedback across both chains
 - **Stack:** `Solidity` `Hardhat` `OpenZeppelin v5` `ethers.js v6` `Node.js` `React` `MetaMask`
 - **Status:** ✅ Deployed & verified on live testnets
 
@@ -105,6 +110,7 @@ Frontend      →  React · Next.js · Redux Toolkit · TypeScript
 
 - **Features:** Deposit, borrow, repay, liquidation logic, interest accrual
 - **Pattern:** Over-collateralized lending with on-chain price feed integration
+- **Frontend:** React dashboard surfacing live positions, health factor, and collateral ratios read directly from the protocol contracts
 - **Stack:** `Solidity` `Hardhat` `OpenZeppelin` `ethers.js` `React`
 
 </details>
@@ -172,12 +178,19 @@ Frontend      →  React · Next.js · Redux Toolkit · TypeScript
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**🎨 Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**🎨 Frontend Engineering**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**🪙 dApp / Web3 Frontend**
+![ethers.js](https://img.shields.io/badge/ethers.js_v6-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+![solana/web3.js](https://img.shields.io/badge/%40solana%2Fweb3.js-9945FF?style=flat-square&logo=solana&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
+![Wallet Flows](https://img.shields.io/badge/Wallet_Connection_Flows-6C47FF?style=flat-square&logo=walletconnect&logoColor=white)
+![On-chain UI](https://img.shields.io/badge/Live_Contract--State_UIs-24243e?style=flat-square&logo=databricks&logoColor=white)
 
 **🔨 Dev Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -230,6 +243,19 @@ Frontend      →  React · Next.js · Redux Toolkit · TypeScript
 ```
 </details>
 
+<details>
+<summary><b>Web3 Frontend / dApp Engineering</b></summary>
+
+```text
+✦ Next.js App Router & SSR/ISR          ✦ Wallet connection & session flows
+✦ Contract reads as source of truth     ✦ Transaction lifecycle UX
+✦ ethers.js v6 / @solana/web3.js        ✦ Network detection & auto-switching
+✦ Event subscriptions → live UI state   ✦ Optimistic updates & re-fetch on block
+✦ Redux Toolkit for dApp state          ✦ Typed contract bindings in TypeScript
+✦ Wallet-gated routing & auth           ✦ On-chain data visualization (charts)
+```
+</details>
+
 ---
 
 ## 💼 Experience
@@ -256,11 +282,12 @@ Frontend      →  React · Next.js · Redux Toolkit · TypeScript
 
 ## 📫 Open to Opportunities
 
-Actively looking for **Blockchain Engineer** and **Rust Backend Engineer** roles focused on:
+Actively looking for **Blockchain Engineer**, **Rust Backend Engineer**, and **Frontend Engineer (Web3/dApp)** roles focused on:
 - Solana programs & DePIN protocols (Anchor, Rust, SPL)
 - Ethereum/EVM smart contract & protocol development
 - Cross-chain infrastructure and bridge architecture
 - High-performance Rust backend services for Web3 products
+- **Next.js dApp frontends** — wallet integrations, transaction UX, and live on-chain data interfaces
 
 **Reach me:** sivajigsivajig703@gmail.com · [LinkedIn](https://linkedin.com/in/sivaji-gadidala-b712ba221)
 
